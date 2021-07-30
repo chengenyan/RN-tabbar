@@ -1,0 +1,6 @@
+module Pods_MyRNProject {
+  umbrella header "Pods-MyRNProject-umbrella.h"
+
+  export *
+  module * { export * }
+}
